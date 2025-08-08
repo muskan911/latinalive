@@ -1,0 +1,12 @@
+Prompt 1:
+Write 2 short beginner-friendly Latin sentences describing this scene: "A Roman girl buys bread in a market." 
+Use only present tense verbs, nominative + accusative case, and basic vocabulary. 
+Provide the English translation and a one-line grammatical breakdown.
+
+Prompt 2:
+Write 2 short Latin sentences for: "A Roman boy feeds a dog in the garden."
+Keep vocabulary simple and structure SVO. Include translations and a POS tag list.
+
+Prompt 3:
+Write 2 Latin sentences for: "A Roman family eats dinner together at a wooden table."
+Include the English translation and a breakdown of nouns, verbs, and adjectives.
