@@ -1,0 +1,132 @@
+{
+    "exercises": [
+        {
+            "id": "ex1",
+            "scene": "A Roman girl buys bread in the market.",
+            "target_sentence": "Puella panem emit in foro.",
+            "tokens": [
+                "Puella",
+                "panem",
+                "emit",
+                "in",
+                "foro",
+                "."
+            ],
+            "translation": "The girl buys bread in the forum.",
+            "focus": [
+                "present tense",
+                "SVO",
+                "prepositional phrase"
+            ],
+            "mcq": [
+                {
+                    "q": "Which case is 'panem'?",
+                    "options": [
+                        "Nominative",
+                        "Genitive",
+                        "Accusative",
+                        "Ablative"
+                    ],
+                    "answer": "Accusative",
+                    "explain": "'Panem' is the accusative singular of 'panis' and is the direct object."
+                },
+                {
+                    "q": "Which case is 'foro' (in 'in foro' = location)?",
+                    "options": [
+                        "Nominative",
+                        "Dative",
+                        "Accusative",
+                        "Ablative"
+                    ],
+                    "answer": "Ablative",
+                    "explain": "With static location, 'in' takes the ablative (place where)."
+                }
+            ]
+        },
+        {
+            "id": "ex2",
+            "scene": "A Roman boy feeds a dog in the garden.",
+            "target_sentence": "Puer canem pascit in horto.",
+            "tokens": [
+                "Puer",
+                "canem",
+                "pascit",
+                "in",
+                "horto",
+                "."
+            ],
+            "translation": "The boy feeds the dog in the garden.",
+            "focus": [
+                "present tense",
+                "SVO",
+                "place where"
+            ],
+            "mcq": [
+                {
+                    "q": "Which case is 'canem'?",
+                    "options": [
+                        "Nominative",
+                        "Accusative",
+                        "Dative",
+                        "Ablative"
+                    ],
+                    "answer": "Accusative",
+                    "explain": "'Canem' is the accusative singular (direct object)."
+                },
+                {
+                    "q": "Which case is 'horto'?",
+                    "options": [
+                        "Genitive",
+                        "Dative",
+                        "Ablative",
+                        "Accusative"
+                    ],
+                    "answer": "Ablative",
+                    "explain": "'In horto' expresses location (ablative)."
+                }
+            ]
+        },
+        {
+            "id": "ex3",
+            "scene": "A Roman family eats dinner together.",
+            "target_sentence": "Familia cenam simul edit.",
+            "tokens": [
+                "Familia",
+                "cenam",
+                "simul",
+                "edit",
+                "."
+            ],
+            "translation": "The family eats dinner together.",
+            "focus": [
+                "present tense",
+                "SVO",
+                "adverb placement"
+            ],
+            "mcq": [
+                {
+                    "q": "Which word is nominative (subject)?",
+                    "options": [
+                        "Familia",
+                        "cenam",
+                        "simul",
+                        "edit"
+                    ],
+                    "answer": "Familia",
+                    "explain": "‘Familia’ is nominative singular and acts as subject."
+                },
+                {
+                    "q": "Which word is the direct object?",
+                    "options": [
+                        "Familia",
+                        "cenam",
+                        "simul",
+                        "edit"
+                    ],
+                    "answer": "cenam",
+                    "explain": "‘Cenam’ (accusative singular) is the thing eaten."
+                }
+            ]
+        }
+    ]
+}
