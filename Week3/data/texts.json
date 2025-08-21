@@ -1,0 +1,27 @@
+{
+    "stories": [
+        {
+            "id": "s1",
+            "title": "Vulpes et Uva (simplified)",
+            "latin": "Vulpes uvas videt. Uvas petere conatur. Non potest. Dicit: 'Uvae acerbae sunt.'",
+            "english": "The fox sees grapes. She tries to get them. She cannot. She says: 'The grapes are sour.'",
+            "glossary": {
+                "vulpes": "fox",
+                "uvas": "grapes (acc.)",
+                "petere": "to seek",
+                "acerbae": "sour"
+            }
+        },
+        {
+            "id": "s2",
+            "title": "Puer et Canis",
+            "latin": "Puer canem amat. Canis cum puero ludit.",
+            "english": "The boy loves the dog. The dog plays with the boy.",
+            "glossary": {
+                "puer": "boy",
+                "canis": "dog",
+                "ludit": "plays"
+            }
+        }
+    ]
+}
