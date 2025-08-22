@@ -1,0 +1,11 @@
+# Week 3 — Teacher Notes
+- Stories chosen: Vulpes et Uva (simplified), Puer et Canis
+- Activities:
+  - Students rewrite the story into comic panels
+  - Fill speech bubbles with Latin
+  - Cross-check with glossary
+- NLP integration:
+  - Stanza parser shows POS, lemma, case
+- Extensions:
+  - Add audio (TTS) for pronunciation
+  - Introduce metrics: student-created glossaries
