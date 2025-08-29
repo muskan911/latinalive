@@ -1,0 +1,12 @@
+# Week 4 — Teacher Notes
+- Students now begin their final project comics.
+- Provided:
+  - JSON template for story panels
+  - Blank AI-generated backgrounds
+  - Canva comic template
+  - TTS demo script for Latin audio
+- Teacher role:
+  - Guide students in filling templates
+  - Encourage glossary building
+  - Ensure Latin remains simple, grammatical
+- Next week (Week 5): polish, peer review, and publish portfolio.
