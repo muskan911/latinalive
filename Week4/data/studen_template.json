@@ -1,0 +1,15 @@
+{
+    "project": {
+        "title": "My Comic",
+        "panels": [
+            {
+                "scene_desc": "Describe the panel scene",
+                "latin_text": "Write Latin text here",
+                "english_text": "Translation here",
+                "glossary": {
+                    "word": "meaning"
+                }
+            }
+        ]
+    }
+}
