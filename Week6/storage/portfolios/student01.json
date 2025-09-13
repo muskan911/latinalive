@@ -1,0 +1,30 @@
+{
+  "student": "student01",
+  "title": "LatinAlive Portfolio",
+  "panels": [
+    {
+      "latin": "puella rosam portat.",
+      "english": "The girl carries a rose."
+    },
+    {
+      "latin": "servus aquam fert.",
+      "english": "The servant brings water."
+    }
+  ],
+  "glossary": [
+    {
+      "latin": "puella",
+      "meaning": "girl"
+    },
+    {
+      "latin": "rosa",
+      "meaning": "rose"
+    }
+  ],
+  "reflections": {
+    "strategy": "I tried to focus on nominative and accusative endings.",
+    "challenge": "Word order is flexible, but I kept forgetting verb placement.",
+    "next": "Practice adjective-noun agreement."
+  },
+  "score": "3/4"
+}

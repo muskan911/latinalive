@@ -1,0 +1,30 @@
+{
+    "exercises": [
+        {
+            "id": "ex1",
+            "scene": "Forum",
+            "tokens": [
+                "puella",
+                "rosam",
+                "portat",
+                "."
+            ],
+            "valid_orders": [
+                "puella rosam portat.",
+                "rosam puella portat."
+            ],
+            "mcq": [
+                {
+                    "q": "What case is 'rosam'?",
+                    "options": [
+                        "Nominative",
+                        "Accusative",
+                        "Dative"
+                    ],
+                    "answer": "Accusative",
+                    "explain": "Rosam is accusative singular (direct object)."
+                }
+            ]
+        }
+    ]
+}
